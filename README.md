@@ -1,6 +1,6 @@
 # Car-price  
 
-This a application using java (Netbeans)  that calculate a Second hand car price (You mode details in ilustration 1 and ilustration 2 files).
+This a application using java (Netbeans)  that calculate a Second hand car price (You mode details in image1 and image2 files).
 <h1> What I learned</h1>
 
 <ul>
